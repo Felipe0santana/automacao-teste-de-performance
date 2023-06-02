@@ -23,10 +23,7 @@ o que indica que o sistema conseguiu lidar bem com a carga máxima aplicada.
 o que indica que o sistema está preparado para suportar o uso esperado pelos usuários.
 
 
-                        - Demais considerações pertinentes ao teste
-                        
-       O teste de pico revelou que a aplicação não conseguiu atingir a volumetria do critério de aceite, 
-       que era de 250 requisições por segundo.                  
+                                        
                         
                         
 
