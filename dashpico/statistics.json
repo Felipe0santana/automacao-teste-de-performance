@@ -1,0 +1,50 @@
+{
+  "Passagem comprada com sucesso." : {
+    "transaction" : "Passagem comprada com sucesso.",
+    "sampleCount" : 4534,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 447.0443317159235,
+    "medianResTime" : 329.0,
+    "minResTime" : 279.0,
+    "maxResTime" : 4203.0,
+    "pct1ResTime" : 631.0,
+    "pct2ResTime" : 841.25,
+    "pct3ResTime" : 2654.9499999999844,
+    "throughput" : 33.32647300952605,
+    "receivedKBytesPerSec" : 235.79147789291278,
+    "sentKBytesPerSec" : 4.263445277585852
+  },
+  "Compra de passagem aérea" : {
+    "transaction" : "Compra de passagem aérea",
+    "sampleCount" : 7390,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 5492.995940460089,
+    "medianResTime" : 1520.0,
+    "minResTime" : 487.0,
+    "maxResTime" : 25056.0,
+    "pct1ResTime" : 17146.9,
+    "pct2ResTime" : 21943.45,
+    "pct3ResTime" : 23471.81,
+    "throughput" : 53.28968242522138,
+    "receivedKBytesPerSec" : 247.5577768728908,
+    "sentKBytesPerSec" : 6.244884659205631
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 11924,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 3574.315582019466,
+    "medianResTime" : 559.0,
+    "minResTime" : 279.0,
+    "maxResTime" : 25056.0,
+    "pct1ResTime" : 15999.5,
+    "pct2ResTime" : 17735.25,
+    "pct3ResTime" : 22970.25,
+    "throughput" : 85.47180090030679,
+    "receivedKBytesPerSec" : 476.02489642171054,
+    "sentKBytesPerSec" : 10.365346991749576
+  }
+}
